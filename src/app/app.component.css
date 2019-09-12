@@ -1,0 +1,36 @@
+body{
+  background: yellowgreen;
+  position: relative;
+  height: 100vh;
+}
+.bo{
+  background-color: white;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 350px;
+  height: 300px;
+  padding: 30px;
+
+}
+.input-group{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+span a{
+  color: darkgoldenrod;
+}
+.pp{
+  color: gray;
+  text-align: center;
+}
+.bb{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.primary-bg{
+  background: seagreen;
+}
