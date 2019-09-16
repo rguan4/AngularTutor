@@ -1,0 +1,25 @@
+.bor {
+  background-repeat: no-repeat;
+  background-image: linear-gradient(135deg,	#425C7D, #996782);
+}
+.text{
+  text-align: center;
+  padding-top: 40px;
+  color: white;
+  font-family: Arial;
+}
+h2, p{
+  padding-bottom: 20px;
+}
+.box{
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 40px;
+}
+.btn{
+  border: 1px solid white;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  width: 180px;
+}
